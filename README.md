@@ -1,6 +1,7 @@
 # Mining Minority-class Examples With Uncertainty Estimates
 
 ### This notebook contains the implmenetation of the paper 'Mining Minority-class Examples With Uncertainty Estimates' published in MMM2022.
+https://arxiv.org/abs/2112.07835
 
 ## Introduction
 
