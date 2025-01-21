@@ -140,13 +140,13 @@ plt.show()
 
 
     
-![png](hem_notebook_files/hem_notebook_16_0.png)
+![png](images/hem_notebook_16_0.png)
     
 
 
 
     
-![png](hem_notebook_files/hem_notebook_16_1.png)
+![png](images/hem_notebook_16_1.png)
     
 
 
@@ -245,25 +245,25 @@ for no_of_exmaples_to_mine in [50, 100, 2000, 4000]:
 
 
     
-![png](hem_notebook_files/hem_notebook_25_0.png)
+![png](images/hem_notebook_25_0.png)
     
 
 
 
     
-![png](hem_notebook_files/hem_notebook_25_1.png)
+![png](images/hem_notebook_25_1.png)
     
 
 
 
     
-![png](hem_notebook_files/hem_notebook_25_2.png)
+![png](images/hem_notebook_25_2.png)
     
 
 
 
     
-![png](hem_notebook_files/hem_notebook_25_3.png)
+![png](images/hem_notebook_25_3.png)
     
 
 
