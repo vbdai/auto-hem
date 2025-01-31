@@ -1,7 +1,10 @@
 # Mining Minority-class Examples With Uncertainty Estimates
 
-### This notebook contains the implmenetation of the paper 'Mining Minority-class Examples With Uncertainty Estimates' published in MMM2022.
-https://arxiv.org/abs/2112.07835
+### This repo contains the implmenetation of the paper 'Mining Minority-class Examples With Uncertainty Estimates' published in MMM2022.
+
+Link to arXiv paper: https://arxiv.org/abs/2112.07835
+
+Link to Huawei's AI Gallery Notebook: [https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=3926fdf2-dba6-46bc-b819-32aaa426c269)
 
 ## Introduction
 
